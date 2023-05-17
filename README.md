@@ -16,8 +16,8 @@ Users should be able to:
 ![mobile](https://github.com/tulsirajput/Product-Review-Card-Component/assets/87925254/2c1390f8-29f4-4320-86a3-5edde2e3b5d8)
 
 ## Link
-Solution URL- [Solution](https://github.com/tulsirajput/Product-Review-Card-Component/)
-Live Site URL- [Live](https://tulsirajput.github.io/Product-Review-Card-Component/)
++ Solution URL- [Solution](https://github.com/tulsirajput/Product-Review-Card-Component/)
++ Live Site URL- [Live](https://tulsirajput.github.io/Product-Review-Card-Component/)
 
 # My process
 
